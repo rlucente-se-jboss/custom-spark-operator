@@ -1,4 +1,4 @@
-# Customer Spark Operator
+# Custom Spark Operator
 This small project covers how to create a custom
 spark operator based on the [radanalytics spark operator](https://github.com/radanalyticsio/spark-operator).
 
