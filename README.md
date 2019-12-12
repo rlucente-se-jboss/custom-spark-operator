@@ -12,6 +12,7 @@ On RHEL 8 as root, install the following tooling:
 Clone the spark-operator source code using:
 
     git clone https://github.com/radanalyticsio/spark-operator.git
+    cd spark-operator
 
 Edit the spark-operator project and add additional dependencies to the
 pom.xml file.  For third party jars, you'll need to import them into
